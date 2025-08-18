@@ -15,7 +15,7 @@
 - 作業用のプロジェクトを作成
     - 例：デスクトップ上に新しいプロジェクトを作成
         ```bash
-        cd Desctop
+        cd Desktop
         dotnet new console -o MyGameSpace
         ```
 
